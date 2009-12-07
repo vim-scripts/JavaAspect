@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2884
+
+Most of the popular aspect programming models in java, either introduce new language keywords or heavily use reflection and xml to achieve the goal.  This script takes a different approach, it generates the aspect boilerplate at the source code level without the extra effort to learn new programming framework.  The generated code can be used as a decorator to wrap around the real object, thusly working as an aspect.  Besides basic OO concepts, It has no fancy names to pollute your brain, it just lets you concentrate on your real work.  

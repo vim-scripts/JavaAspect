@@ -1,0 +1,5 @@
+To get a feel how this script works 
+	1) open Example.java in vim 
+	2) source JavaAspect.vim
+	3) highlight the aspect template
+	4) on the command line :'<,'>CreateAspect
